@@ -1,0 +1,16 @@
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\obj\Debug\netcoreapp3.1\ObjectOrientedProgram.csproj.AssemblyReference.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\obj\Debug\netcoreapp3.1\ObjectOrientedProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\obj\Debug\netcoreapp3.1\ObjectOrientedProgram.AssemblyInfoInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\obj\Debug\netcoreapp3.1\ObjectOrientedProgram.AssemblyInfo.cs
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\obj\Debug\netcoreapp3.1\ObjectOrientedProgram.csproj.CoreCompileInputs.cache
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\bin\Debug\netcoreapp3.1\ObjectOrientedProgram.exe
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\bin\Debug\netcoreapp3.1\ObjectOrientedProgram.deps.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\bin\Debug\netcoreapp3.1\ObjectOrientedProgram.runtimeconfig.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\bin\Debug\netcoreapp3.1\ObjectOrientedProgram.runtimeconfig.dev.json
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\bin\Debug\netcoreapp3.1\ObjectOrientedProgram.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\bin\Debug\netcoreapp3.1\ObjectOrientedProgram.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\obj\Debug\netcoreapp3.1\ObjectOrientedProgram.csproj.CopyComplete
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\obj\Debug\netcoreapp3.1\ObjectOrientedProgram.dll
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\obj\Debug\netcoreapp3.1\ObjectOrientedProgram.pdb
+C:\Users\HI\OneDrive\Desktop\rfpbatch\bridgelabz\jsonfile\ObjectOrientedProgram\ObjectOrientedProgram\obj\Debug\netcoreapp3.1\ObjectOrientedProgram.genruntimeconfig.cache

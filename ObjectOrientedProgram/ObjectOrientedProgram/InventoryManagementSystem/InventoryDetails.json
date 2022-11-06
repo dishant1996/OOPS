@@ -1,0 +1,43 @@
+{
+  "RiceList": [
+    {
+      "Name": "Basmati",
+      "Weight": 10,
+      "Price": 20
+    },
+    {
+      "Name": "xyz",
+      "Weight": 20,
+      "Price": 10
+    },
+    {
+      "Name": "Baba",
+      "Weight": 5,
+      "Price": 25
+    }
+  ],
+  "WheatList": [
+    {
+      "Name": "a",
+      "Weight": 15,
+      "Price": 10
+    },
+    {
+      "Name": "b",
+      "Weight": 8,
+      "Price": 25
+    }
+  ],
+  "PulsesList": [
+    {
+      "Name": "c",
+      "Weight": 10,
+      "Price": 22
+    },
+    {
+      "Name": "d",
+      "Weight": 11,
+      "Price": 29
+    }
+  ]
+}

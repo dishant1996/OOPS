@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7OzNf6Q0wS1dVFGej63jYi0hf4PZpXt2Yk5+Ggg83fJPTcVnzm8GcTXG15GI8CJDxg4KEmG5gJukZLsNa2nCQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\opl\\objectorientedprogramassign-master\\ObjectOrientedProgram\\ObjectOrientedProgram\\ObjectOrientedProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
